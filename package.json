@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "CLI tool to deploy Docker Compose apps to Ubuntu VPS with Traefik",
   "main": "bin/hackerrun.js",
+  "type": "module",
   "bin": {
     "hackerrun": "./bin/hackerrun.js"
   },
